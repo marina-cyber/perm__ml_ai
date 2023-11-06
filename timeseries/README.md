@@ -1,4 +1,4 @@
-![image](https://github.com/marina-cyber/perm__ml_ai/assets/74741836/1584c36d-b6bc-47c2-b206-b8de9f4ec26f)# perm__ml_ai
+# perm__ml_ai
 
 Курс Основы обработки временных рядов алгоритмами машинного обучения и искусственного интеллекта
 
