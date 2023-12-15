@@ -151,3 +151,10 @@
     Например:
     https://www.kaggle.com/datasets/boyangs444/process-data-for-predictive-maintenance
 
+Лекция 13
+
+    Используйте для предсказания DeepAr.
+    Набор данных - ЭКГ из рабочего блокнота предыдущей лекции.
+
+    
+
